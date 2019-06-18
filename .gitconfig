@@ -1,0 +1,16 @@
+[user]
+	name = ponpoko04
+	email = taum0715@gmail.com
+[core]
+	editor = vim -c \"set fenc=utf-8\"
+	precomposeunicode = true
+	quotepath = false
+	filemode = false
+	ignorecase = false
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	ui = true
+[credential]
+	helper = osxkeychain
